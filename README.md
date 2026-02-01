@@ -6,7 +6,7 @@ This project recreates the look and feel of Netflix with modern UI design and in
 ---
 
 ## 📸 Screenshot
-(Add screenshot here later)
+![image alt](https://github.com/littlebrother04/Netflix-Clone/blob/a9abd211c427e8b3879b983d710d5b5cc7df2650/SS3.png)
 
 ---
 
